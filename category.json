@@ -1,6 +1,6 @@
 [
     {
-      "userId": 1,
+  
       "id": 1,
       "img":" https://cdn.shopify.com/s/files/1/1239/1628/products/trillion_ear_cuff_rose_550x.jpg?v=1623180539  ",
       "title": "THEIA - VERMEIL & STERLING SILVER SINGLE EAR CUFF",
@@ -9,7 +9,7 @@
     
     },
     {
-      "userId": 1,
+      
       "id":2,
       "img":" https://cdn.shopify.com/s/files/1/1239/1628/products/Theia-E1B_Product_shot_silver_1024x1024_13f8faee-724d-4075-a003-12efa967d318_550x.jpg?v=1623180514 ",
       "title": "THEIA - TRILLION CZ STUDS WITH EAR CUFF",
@@ -20,7 +20,7 @@
     },
   
     {
-      "userId": 1,
+      
       "id": 3,
       "img":" https://cdn.shopify.com/s/files/1/1239/1628/products/front_hoops_SS_550x.jpg?v=1625168493  ",
       "title": "VERMEIL & STERLING SILVER - MINI BAGUETTE HOOP EARRINGS",
@@ -30,7 +30,7 @@
     },
     
     {
-      "userId": 1,
+     
       "id": 4,
         "img":" https://cdn.shopify.com/s/files/1/1239/1628/products/Large_cc_550x.jpg?v=1621372405  ",
       "title": "THYRA - LARGE CONCAVE PAVE STUDS",
@@ -41,7 +41,7 @@
     },
     
     {
-      "userId": 1,
+     
       "id": 5,
        "img":"https://cdn.shopify.com/s/files/1/1239/1628/products/beaksilver_cc_550x.jpg?v=1621372325 ",
       "title": "PHOENIX- SMALL BEAK STUDS",
@@ -51,7 +51,7 @@
     },
     
     {
-      "userId": 1,
+     
       "id": 6,
        "img":" https://cdn.shopify.com/s/files/1/1239/1628/products/IMG_7322_550x.jpg?v=1570041713 ",
       "title": "VERMEIL & STERLING SILVER - MEDIUM PAVE HINGED HOOP",
@@ -62,7 +62,7 @@
     },
     
     {
-      "userId": 1,
+      
       "id": 7,
       "img":" https://cdn.shopify.com/s/files/1/1239/1628/products/Phoenix-E2A_550x.jpg?v=1611414680  ",
       "title": "PHOENIX- GOLD STATEMENT WING EARRINGS",
@@ -72,7 +72,7 @@
     },
     
     {
-      "userId": 1,
+     
       "id": 8,
         "img":" https://cdn.shopify.com/s/files/1/1239/1628/products/hoop_front_view_1100x.jpg?v=1623172658  ",
       "title": "GOLD FILLED - CHARM HOOP EARRINGS",
@@ -83,7 +83,7 @@
     },
     
     {
-      "userId": 1,
+     
       "id": 9,
       "img":"https://cdn.shopify.com/s/files/1/1239/1628/products/Thyra-_E1_product_shot_1100x.jpg?v=1622646434 ",
       "title": "THYRA - LINEAR CUFF EARRINGS",
@@ -93,7 +93,7 @@
     },
   
      {
-      "userId": 1,
+     
       "id": 10,
       "img":" https://cdn.shopify.com/s/files/1/1239/1628/products/diamond_550x.jpg?v=1639164565  ",
       "title": "MARQUISE & DIAMOND STUD EARRINGS",
@@ -102,7 +102,7 @@
     
     } ,
       {
-      "userId": 1,
+  
       "id": 11,
       "img":" https://cdn.shopify.com/s/files/1/1239/1628/products/Pavestickswagearrings_550x.jpg?v=1623177302 ",
       "title": "VERMEIL - PAVE BAR SWAG EARRING",
@@ -120,7 +120,7 @@
     
     },
       {
-      "userId": 1,
+      
       "id": 13,
       "img":"https://cdn.shopify.com/s/files/1/1239/1628/products/goldhoopscut2_550x.jpg?v=1623682754 ",
       "title": "VERMEIL WIDE Gold HOOPS",
@@ -129,7 +129,7 @@
     
     },
       {
-      "userId": 1,
+     
       "id": 14,
        "img":"https://cdn.shopify.com/s/files/1/1239/1628/products/statementquatzearrings_550x.jpg?v=1622739105  ",
       "title": "STERLING SILVER QUARTZ DOUBLE TASSEL EARRINGS",
@@ -138,7 +138,7 @@
     
     },
       {
-      "userId": 1,
+     
       "id": 15,
        "img":"https://cdn.shopify.com/s/files/1/1239/1628/products/prongstudearrings_550x.jpg?v=1622749652 ",
       "title": "VERMEIL - PRONG FULL PAVE STUD EARRINGS",
